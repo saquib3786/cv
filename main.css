@@ -1,0 +1,21 @@
+body{
+
+    background: url("3.jpg");
+    background-size: cover;
+    background-blend-mode: multiply;
+
+    
+}
+
+h1{
+    border-color: aliceblue;
+   
+    
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width: 5px;
+    width: 5%;
+}
